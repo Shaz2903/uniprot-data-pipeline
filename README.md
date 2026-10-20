@@ -51,10 +51,8 @@ uniprot-data-pipeline/
 │   ├── module_documentation.md
 │   └── test_documentation.md
 ├── data/
-│   └── .gitkeep
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ## Technologies
